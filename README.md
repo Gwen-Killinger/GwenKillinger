@@ -1,5 +1,11 @@
-## Hi there 👋
+Jacob Killinger
 
+Hello, I'm a senior at Grand Valley State University. I am interested in software development
+and pretty open to anything in the field. I have a particular interest in game development
+and find myself occationally working on minigame in my free time. I am currently working on my
+senior capstone project where we are making a translator app for older patient with declining language
+capability from being bilingual. Otherwise I am working on a space rougelike game in my free time.
+My favorite hobby I have is playing Table top RPGs with my friends every Monday.
 <!--
 **JacobKillinger/JacobKillinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
