@@ -1,4 +1,4 @@
-Jacob Killinger
+Gwen Killinger
 
 Hello, I'm a senior at Grand Valley State University. I am interested in software development
 and pretty open to anything in the field. I have a particular interest in game development
